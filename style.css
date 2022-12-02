@@ -1,0 +1,30 @@
+.priceBox {
+    border: 1px solid rgb(237, 237, 237);
+    padding: 15px;
+}
+
+.action {
+    border: 1px solid rgb(237, 237, 237);
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.content-table {
+    width: 94vw;
+    margin: 1vw;
+}
+
+.list-table {
+    margin: 1%;
+    width: 98%;
+}
+
+.container {
+    margin-bottom: 55px;
+}
+
+.inModal {
+    width: 98vw !important;
+    height: 70vh;
+    overflow: auto;
+}
